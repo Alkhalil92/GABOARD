@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "homepage": "https://alkhalil92.github.io/GABOARD/",
     "@radix-ui/react-select": "^2.1.2",
     "@radix-ui/react-tabs": "^1.1.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -47,4 +48,5 @@
   "devDependencies": {
     "react-app-rewired": "^2.2.1"
   }
+  
 }
